@@ -63,3 +63,13 @@ color:black;
     width:7.8rem;
     border-radius: 100px;
 }
+footer{
+    position: absolute;
+    background: black;
+    padding:10px 22px;
+    text-align: center;
+    bottom: 0;
+    width:100vw;
+ }
+ footer a{color: white;
+text-decoration: none;}
